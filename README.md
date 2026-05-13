@@ -1,6 +1,6 @@
-# Geoff's Mobile Auto Repair - Website
+# Advance Auto Services - Website
 
-This repository contains the front-end code for Geoff's Mobile Auto Repair, a local service business based in Charlotte, NC.
+This repository contains the front-end code for Advance Auto Services, a local service business based in Charlotte, NC.
 
 ## Tech Stack
 - HTML5 (Semantic & SEO Optimized)
